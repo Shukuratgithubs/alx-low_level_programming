@@ -1,4 +1,4 @@
-*
+/*
  * File: 101-wildcmp.c
  * Auth: shukurat ashiru
  */
